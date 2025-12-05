@@ -2655,7 +2655,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 20000000,Animation Adventure Family,en,27187375,85.0,5.8,72,Anthony Silverston
 7000000,Thriller Science Fiction,en,0,110.0,5.6,670,Gabe Ib\u00e1\u00f1ez
 0,Action Adventure Fantasy,en,0,105.0,4.8,36,Gerry Lively
-15000000,Drama,it,0,,7.3,12,Daniele Luchetti
 15000000,Drama Action Thriller Crime,zh,0,119.0,6.7,65,Derek Yee Tung-Sing
 0,Drama Foreign,en,0,124.0,4.5,2,Julien Temple
 14600000,Romance Fantasy Drama Comedy,en,70906973,101.0,7.4,2301,Harold Ramis
@@ -3660,7 +3659,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Horror Comedy Crime Thriller,en,0,92.0,6.3,80,Paul Andrew Williams
 0,Drama Fantasy Comedy,en,0,87.0,5.8,65,Stephen Herek
 0,Comedy Documentary,en,0,80.0,3.2,13,Bob Saget
-0,Drama,en,0,95.0,7.0,2,
 5000000,Music Drama Comedy,en,0,105.0,7.4,105,William H. Macy
 5000000,Family Animation,en,0,67.0,3.0,3,Barrett Esposito
 0,Romance Comedy,en,0,95.0,6.1,24,Mitch Davis
@@ -3669,7 +3667,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Action Thriller War,en,0,109.0,4.1,7,Vicky Jewson
 5000000,Drama Action Thriller Science Fiction,en,0,123.0,6.4,131,Peter Hyams
 0,Comedy Drama,en,0,0.0,0.0,0,Marcia Bennett
-0,Family,en,0,88.0,0.0,0,
 5000000,Comedy Fantasy Horror Thriller,en,0,88.0,4.7,102,Kevin Smith
 0,Horror Action,en,0,97.0,3.5,36,Stanton Barrett
 0,Comedy Drama,cs,0,120.0,7.0,22,Ji\u0159\u00ed Menzel
@@ -3728,7 +3725,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 5000000,Crime Drama Thriller,en,0,89.0,7.0,217,Jonathan Glazer
 0,Drama Thriller Crime,sv,0,124.0,6.5,63,Daniel Espinosa
 8000000,Drama Family,en,41400000,101.0,7.1,111,Niki Caro
-3250000,Drama Family Foreign,en,0,133.0,6.6,19,
 0,Thriller Mystery Science Fiction,de,0,120.0,5.9,140,Ivan Engler
 4200000,Comedy Drama Family Music TV Movie,en,0,98.0,6.1,1000,Kenny Ortega
 0,Drama Romance Foreign,en,0,93.0,6.9,11,Richard Kwietniowski
@@ -3970,13 +3966,11 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Thriller,en,0,88.0,4.8,14,Youssef Delara
 3000000,Mystery Thriller,en,0,95.0,4.6,16,Darin Scott
 3000000,Thriller,en,0,79.0,2.8,10,Christian Sesma
-0,,en,0,88.0,6.0,1,Monte Hellman
 3200000,Action Crime Thriller,en,0,95.0,6.1,5,Brian Caunter
 0,Comedy Drama Romance,en,0,95.0,6.3,22,Chris D'Arienzo
 2900000,Drama,pt,5596708,113.0,7.6,126,Walter Salles
 2900000,Comedy Drama,en,5000000,136.0,7.3,25,Frank Capra
 0,Crime Action,en,0,80.0,4.9,54,Isaac Florentine
-0,Comedy Drama Romance,en,0,105.0,6.8,3,
 3000000,Thriller Mystery Drama Horror,en,0,90.0,4.1,52,Michael Polish
 3000000,Documentary,en,103735,93.0,6.6,36,Heidi Ewing
 0,Horror Thriller Mystery,fr,0,91.0,6.6,271,Alexandre Aja
@@ -3991,7 +3985,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Comedy Drama Romance,en,0,144.0,7.6,44,Rajkumar Hirani
 0,Drama,en,0,112.0,6.5,19,Victor Nunez
 2700000,Adventure Family,en,37799643,118.0,7.0,59,Carroll Ballard
-0,,en,0,0.0,9.5,2,Rohit Jugraj
 0,Action Adventure Animation Comedy Science Fiction,en,0,90.0,4.9,10,Kresten Vestbjerg Andersen
 2686000,Adventure Comedy Romance,en,6600000,109.0,6.0,30,John Ford
 0,Comedy Drama,nl,0,103.0,7.0,3,Alex van Warmerdam
@@ -4067,7 +4060,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 2100000,Drama Crime,en,3330,126.0,0.0,0,Robert Fontaine
 1500000,Horror Mystery,es,30448000,78.0,7.1,934,Jaume Balaguer\u00f3
 0,Drama Mystery Thriller,en,0,88.0,4.5,4,Patricia Cardoso
-0,,en,0,0.0,0.0,0,
 0,Thriller Horror Science Fiction,en,0,77.0,5.1,36,Neil Mcenery-West
 0,Adventure Drama Western,de,0,81.0,4.1,15,Anthony O'Brien
 2000000,Action Thriller Adventure,en,78898765,115.0,6.9,760,Terence Young
@@ -4104,7 +4096,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Horror,en,0,98.0,5.9,58,Kevin Tenney
 2000000,Romance Drama Comedy,en,5179037,101.0,6.3,140,John Cameron Mitchell
 2000000,Drama Animation War,he,11125849,90.0,7.8,291,Ari Folman
-2000000,,en,1672730,120.0,5.0,2,
 2000000,Documentary,en,1431623,102.0,7.2,23,Charles Ferguson
 2000000,Drama Romance,en,1477002,98.0,6.8,279,Marielle Heller
 2000000,Documentary,en,0,109.0,7.6,31,David Sington
@@ -4117,12 +4108,10 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Comedy Drama,en,0,97.0,6.1,23,David Duchovny
 0,Comedy Horror,en,0,94.0,5.2,210,Mitchell Lichtenstein
 2000000,Action Adventure Science Fiction,en,124494,91.0,5.8,36,Lance Mungia
-0,,en,0,0.0,0.0,0,
 2000000,Drama Comedy Music,en,120620,90.0,7.1,52,Michael Dowse
 3800000,Comedy,en,111731,84.0,5.9,18,Hue Rhodes
 0,Comedy Drama Romance,en,0,96.0,6.3,10,Shane Meadows
 13500000,Drama,en,187674,129.0,5.2,32,Roland Emmerich
-7000000,Animation Family Foreign,en,1100000,93.0,6.7,3,
 0,Drama Action Thriller,en,0,100.0,5.0,1,Danny Provenzano
 0,Adventure Family,en,0,97.0,5.6,13,Bill Muir
 0,Comedy Drama Music Romance,en,0,94.0,5.5,143,Richard LaGravenese
@@ -4139,7 +4128,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1000000,Thriller Horror,en,0,92.0,6.1,381,Colin Minihan
 100000,Horror,en,95000,86.0,5.5,92,Conor McMahon
 2000000,Crime Drama Horror Thriller,en,0,98.0,5.2,84,Chris Shadley
-2,Documentary,en,0,,0.0,0,Simon Napier-Bell
 2000000,Comedy,en,11833696,82.0,6.7,165,Woody Allen
 0,Thriller,en,0,103.0,3.5,2,Simon Yin
 0,Action Adventure Drama,en,0,76.0,5.8,2,Jeff Crook
@@ -4246,7 +4234,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1200000,Drama History War,en,0,128.0,6.0,2,John Sayles
 1500000,Horror Mystery Science Fiction,en,32000,93.0,6.6,183,Bruce McDonald
 2000000,Drama,en,0,90.0,6.8,16,James Mottern
-1,Romance Comedy Drama,en,0,90.0,10.0,2,
 1500000,Horror Thriller,en,1165882,101.0,5.1,242,Rob Zombie
 0,Horror Comedy Thriller,en,0,109.0,6.5,358,Gerard Johnstone
 0,Documentary,en,0,98.0,6.9,24,Robert Greenwald
@@ -4292,7 +4279,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1200000,Drama,en,0,100.0,6.7,185,Steven Soderbergh
 1200000,Horror Mystery Crime,en,103911669,103.0,7.2,2184,James Wan
 3000000,Comedy Crime Mystery,en,18492362,100.0,6.6,362,Jay Chandrasekhar
-1,,en,0,99.0,0.0,0,Giovanni Zelko
 1300000,Comedy Drama,es,0,87.0,5.7,17,Claudia Sainte-Luce
 0,Comedy Drama Romance,hi,0,114.0,6.8,57,Mira Nair
 0,Drama Romance,en,0,111.0,6.8,88,Kenneth Lonergan
@@ -4304,7 +4290,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1200000,Western,it,6000000,161.0,8.1,2311,Sergio Leone
 0,Drama,pt,0,110.0,7.8,165,Anna Muylaert
 1250000,Drama Comedy,en,0,106.0,5.8,25,Steve Taylor
-0,Comedy Music,en,0,88.0,0.0,0,
 900000,Documentary,en,25000,97.0,6.8,6,L\u00e9a Pool
 1200000,Comedy,en,0,85.0,0.0,0,James David Pasternak
 1344000,Drama Romance,fr,0,103.0,4.1,140,Laurent Bouhnik
@@ -4313,7 +4298,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Comedy,en,0,88.0,3.9,44,Adam Jay Epstein
 1200000,Action Adventure Drama War,en,2736000,115.0,6.8,18,Michael Curtiz
 0,Thriller Horror,en,0,0.0,4.4,12,Justin Thomas Ostensen
-1200000,,en,0,84.0,4.8,12,
 2600000,Action Adventure Comedy,en,2850263,91.0,6.1,20,Rob Bowman
 1200000,Action Adventure,en,0,97.0,6.7,13,Ossie Davis
 0,Horror,en,0,91.0,4.2,26,Jay Alaimo
@@ -4321,7 +4305,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 3000000,Comedy,en,18637690,94.0,6.2,237,Rob McKittrick
 0,Drama Thriller Crime,en,0,90.0,7.2,151,Shane Meadows
 1100000,Comedy Horror,en,1400000,99.0,6.8,15,Jeff Burr
-0,Documentary,en,0,0.0,5.0,1,
 1596010,Horror,en,0,75.0,6.9,8,Guy Maddin
 0,Drama,en,0,97.0,6.0,9,Regardt van den Bergh
 1100000,Fantasy Science Fiction Horror,en,0,110.0,5.7,77,Panos Cosmatos
@@ -4373,7 +4356,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1000000,Drama Foreign Romance,hi,623791,170.0,6.1,7,Khalid Mohammed
 1000000,Comedy,en,0,94.0,6.2,115,Trey Parker
 0,Drama Romance,en,0,108.0,5.9,30,David Gordon Green
-0,Comedy,en,0,97.0,7.7,10,
 1000000,Drama,en,464000,92.0,6.7,13,Karen Moncrieff
 0,Drama,en,0,100.0,6.4,348,Gia Coppola
 0,Crime Drama,he,0,120.0,6.8,27,Scandar Copti
@@ -4384,7 +4366,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1000000,Documentary,en,274661,106.0,6.6,53,Alex Gibney
 1000000,Documentary,en,0,97.0,4.7,3,Paul Crowder
 0,Drama,en,0,120.0,2.8,3,Rohit Jagessar
-0,,en,0,90.0,4.0,1,Griffin Dunne
 1000000,Drama Adventure Documentary,en,0,92.0,7.2,29,Anthony Powell
 650000,Documentary,en,0,93.0,6.4,55,Kief Davidson
 1000000,Drama Action,en,0,114.0,4.7,5,Johnny Remo
@@ -4399,12 +4380,9 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 1000000,Crime Drama Romance Thriller,en,10018,78.0,6.2,20,Eric Nicholas
 1000000,Drama Science Fiction,en,0,97.0,5.4,25,Benjamin Dickinson
 1000000,Drama Fantasy Science Fiction,en,7202,81.0,6.6,32,Hal Haberman
-0,,en,0,96.0,0.0,1,Darren Stein
-0,Action Comedy Science Fiction,en,0,97.0,4.8,2,
 0,Drama Action Thriller,en,0,88.0,3.3,9,Brian Trenchard-Smith
 0,Comedy Drama,en,0,96.0,8.0,1,Frank Whaley
 1000000,Crime Drama,es,0,105.0,6.2,32,Amat Escalante
-0,Family Comedy,en,0,0.0,8.0,1,
 900000,Drama Romance,en,0,76.0,6.4,55,Katherine Brooks
 1000000,Drama Comedy,en,0,96.0,4.9,23,David Cross
 0,Action Crime Drama Thriller,en,0,99.0,5.4,8,Randall Rubin
@@ -4412,7 +4390,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Drama,en,0,94.0,6.1,6,Guy Hamilton
 0,Drama,en,0,87.0,5.5,3,Mary Pat Kelly
 0,Drama,en,0,93.0,6.1,47,Lori Petty
-0,,en,0,90.0,4.5,2,Charlie Levi
 0,Horror,en,0,92.0,4.7,31,Kevin Hamedani
 1000000,Horror Thriller,en,0,85.0,4.8,11,David DeCoteau
 0,Romance Drama,es,0,96.0,7.6,26,Mikel Rueda
@@ -4457,7 +4434,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 800000,Drama Romance,en,1001437,114.0,5.6,10,Victor Nunez
 800000,Drama Romance,en,2816116,88.0,7.8,13,Peter Sollett
 0,Drama Thriller Romance,de,0,109.0,7.6,45,G.W. Pabst
-0,,en,0,0.0,0.0,0,
 0,Drama Foreign,en,0,83.0,7.8,3,Jorge Gaggero
 0,Action Drama Mystery Thriller,en,0,101.0,6.1,7,Rod Lurie
 800000,Drama,en,62852,94.0,7.3,23,Michael Burke
@@ -4503,7 +4479,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Drama,en,0,90.0,6.0,2,Scott Ziehl
 0,Crime Drama,en,0,0.0,3.0,1,Richard Montoya
 522360,Music Documentary,fr,0,105.0,5.0,1,Johanna Schwartz
-0,,en,0,0.0,0.0,0,
 0,Drama Comedy,fr,0,102.0,6.0,63,Thomas Lilti
 0,Thriller,en,0,98.0,4.8,4,Michael Walker
 560000,Comedy Music,en,12299668,88.0,7.3,168,Richard Lester
@@ -4549,10 +4524,8 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Documentary Music,en,0,95.0,7.0,8,Stephen Kijak
 500000,Drama,en,0,87.0,5.0,2,Marc Forster
 0,Action Drama Thriller,en,316472,104.0,5.9,208,Andrew Niccol
-0,,en,0,96.0,0.0,0,William Gazecki
 0,Drama Romance,en,0,103.0,7.3,371,Ol Parker
 500000,Horror Comedy,en,0,104.0,3.5,14,Michael Hoffman Jr.
-0,,en,0,0.0,0.0,0,
 0,Action Thriller Mystery,en,0,110.0,3.4,4,Georgia Hilton
 0,Mystery Science Fiction Thriller,en,0,90.0,6.5,49,Jack Heller
 500,Crime Drama,en,0,101.0,0.0,0,Fernando Baez Mella
@@ -4561,16 +4534,12 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Thriller Comedy Mystery,en,0,90.0,0.0,0,Justin Paul Miller
 0,Family,en,0,108.0,5.5,1,Joel Paul Reisig
 0,Documentary,en,0,82.0,5.0,1,Catherine Gund
-500000,,en,0,84.0,2.0,1,
 0,Science Fiction Action Comedy Horror,en,0,82.0,6.3,113,Lloyd Kaufman
 0,Drama,en,0,0.0,4.3,4,Matty Rich
 0,Action Adventure Drama History,en,773228,107.0,7.2,53,Paul Greengrass
-0,,en,0,0.0,2.4,4,
 450000,Drama Romance,en,973525,84.0,6.2,38,Hans Canosa
 0,Horror Comedy,en,0,103.0,5.9,41,Lloyd Kaufman
-0,,en,0,0.0,0.0,0,Matthew Watts
 439000,Music Comedy Romance,en,2281000,89.0,6.1,37,Lloyd Bacon
-0,,en,0,0.0,8.0,1,
 225000,Comedy Drama,en,0,98.0,7.0,38,Whit Stillman
 0,Romance Drama Comedy Music,sv,0,132.0,6.9,42,Kay Pollak
 0,Horror Drama,en,0,90.0,4.2,5,Eric England
@@ -4580,15 +4549,12 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Documentary,en,0,91.0,7.2,52,Stacy Peralta
 400000,Adventure Comedy Fantasy,en,5028948,91.0,7.8,1708,Terry Gilliam
 0,Drama,it,0,90.0,7.0,7,Richard Glatzer
-0,,en,0,0.0,1.0,1,Sue Corcoran
 218,Documentary Drama,en,1162014,91.0,7.5,22,Jonathan Caouette
-0,Documentary,en,0,92.0,3.8,5,
 0,Horror Comedy,en,0,0.0,5.0,2,Matt Jackson
 0,Horror,it,0,87.0,6.6,117,Lucio Fulci
 35000000,Comedy Romance,da,170000000,99.0,5.8,923,Tom Vaughan
 500000,Horror Science Fiction Thriller,en,0,80.0,5.5,22,Paul Fox
 860000,Romance Drama Comedy,en,2451545,97.0,6.6,51,Stephen Frears
-0,Drama Mystery Thriller,en,0,84.0,0.0,0,
 0,Drama Thriller,en,0,97.0,5.6,4,Cassandra Nicolaou
 0,Drama,sv,0,91.0,7.8,115,Ingmar Bergman
 385907,Drama,en,8394751,197.0,7.4,60,D.W. Griffith
@@ -4610,7 +4576,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 8,Fantasy Horror Thriller,en,16,98.0,6.4,138,Gregory Widen
 0,Comedy,fr,0,91.0,6.1,16,C\u00e9dric Klapisch
 300000,Comedy Drama,en,0,81.0,6.4,64,Peter Hedges
-0,,en,0,0.0,0.0,0,Niall Johnson
 300000,Drama,en,0,73.0,6.3,36,Kelly Reichardt
 200000,Drama,en,0,80.0,6.4,64,Kelly Reichardt
 0,Drama,en,0,88.0,4.8,4,Eric Mendelsohn
@@ -4621,7 +4586,6 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 300000,Drama,en,40542,94.0,3.0,1,Jesse Peretz
 0,Action Adventure Drama,en,0,0.0,5.3,4,Eddie O'Flaherty
 0,Action Thriller,en,0,90.0,2.8,6,Babar Ahmed
-0,,en,0,110.0,7.0,1,John D. Hancock
 300000,Action Comedy Science Fiction,en,8000000,80.0,5.9,124,Paul Bartel
 0,Horror Drama Thriller,en,0,90.0,6.8,3,Jason Marsden
 0,Horror,en,0,94.0,0.0,0,Pece Dingo
@@ -4632,18 +4596,15 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Drama Thriller Crime,en,319285,90.0,6.3,221,Craig Zobel
 250000,Comedy Drama Romance,en,12021272,113.0,6.7,433,Kevin Smith
 250000,Comedy Drama Romance,en,4186931,91.0,6.3,23,Nicole Holofcener
-0,,en,0,0.0,0.0,0,
 0,Crime Drama,en,0,101.0,6.5,27,Justin Lin
 0,Comedy Drama Romance,en,0,94.0,5.7,13,Maria Maggenti
 0,Comedy Drama,en,0,96.0,5.7,16,Miguel Arteta
 250000,Drama Comedy Romance,en,0,100.0,5.0,4,Piyush Dinker Pandya
-300000,Drama Action Crime,en,0,90.0,0.0,0,
 250000,Thriller Science Fiction Mystery,en,501818,90.0,6.9,1069,Vincenzo Natali
 0,Comedy Romance,it,0,78.0,5.8,9,Emma-Kate Croghan
 250,Drama Comedy Animation,en,203,72.0,7.5,12,Bill Plympton
 0,Drama Mystery Thriller,en,0,73.0,4.9,11,Greg Harrison
 250000,Drama Romance,en,3542353,90.0,6.4,381,Drake Doremus
-0,Horror,en,0,96.0,3.0,1,
 0,Comedy,en,0,92.0,5.5,2,Allison Anders
 0,Drama Comedy,en,0,75.0,7.0,3,Michael Kang
 250000,Thriller Drama,en,56825,99.0,4.1,75,Paul Schrader
@@ -4656,12 +4617,10 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 250000,Action Fantasy,en,0,106.0,6.4,101,Jamin Winans
 250000,Drama Family,en,0,96.0,5.7,7,Tom Seidman 
 0,Crime Drama,en,0,107.0,5.0,12,Matt Cimber
-0,,en,0,0.0,0.0,0,
 0,Horror Thriller,en,0,0.0,4.2,14,Andrew Hyatt
 0,Family Drama,en,0,108.0,5.5,2,Joel Paul Reisig
 0,Documentary,en,0,90.0,0.0,0,Kristin Rizzo
 245000,Drama Romance War,en,22000000,151.0,7.0,21,King Vidor
-0,Comedy,en,0,0.0,10.0,1,
 250,Romance Comedy Music,en,0,118.0,7.7,3,Zoran Lisinac
 230000,Drama Action Crime,en,2260712,92.0,6.9,733,Nicolas Winding Refn
 0,Western,en,0,106.0,0.0,0,James O'Brien
@@ -4673,14 +4632,12 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 200000,Comedy Romance,en,4505922,94.0,6.8,253,Doug Liman
 200000,Western,it,14500000,99.0,7.6,883,Sergio Leone
 200000,Comedy,en,2200000,66.0,5.1,27,Lowell Sherman
-0,,en,0,85.0,0.0,0,
 200000,Drama,en,2295733,101.0,6.5,10,David Evans 
 0,Drama,en,0,101.0,6.6,7,Ava DuVernay
 0,Romance Drama Comedy,de,2611555,119.0,6.3,31,Tom Tykwer
 200000,Music Drama,en,0,103.0,8.0,2,Sherman Alexie
 0,Documentary,en,0,86.0,8.0,1,Justin Dillon
 450000,Crime Horror Thriller,en,0,90.0,4.9,14,Stevan Mena
-0,,en,0,92.0,5.5,2,Adam Rifkin
 13000000,Horror,en,0,95.0,4.6,24,Eric Valette
 0,Drama Comedy Horror,en,0,84.0,5.8,23,Jay Duplass
 0,Horror,pt,0,89.0,0.0,0,Livingston Oden
@@ -4713,9 +4670,7 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 0,Documentary,en,0,73.0,7.2,11,Deborah Anderson
 0,Documentary,en,0,80.0,6.8,6,Sara Newens
 160000,Documentary History,en,6706368,91.0,7.4,90,Michael Moore
-0,,en,0,89.0,0.0,0,Sai Varadan
 0,Science Fiction Drama Mystery,en,0,85.0,6.3,108,Zal Batmanglij
-0,,en,0,90.0,0.0,0,
 125000,Drama Comedy,en,3200000,90.0,6.5,137,Lynn Shelton
 120000,Comedy,en,0,88.0,5.9,24,David Hewlett
 120000,Drama Romance,fr,0,95.0,7.1,20,Jean-Luc Godard
@@ -4800,5 +4755,4 @@ budget,genres,original_language,revenue,runtime,vote_average,vote_count,director
 220000,Action Crime Thriller,es,2040920,81.0,6.6,238,Robert Rodriguez
 9000,Comedy Romance,en,0,85.0,5.9,5,Edward Burns
 0,Comedy Drama Romance TV Movie,en,0,120.0,7.0,6,Scott Smith
-0,,en,0,98.0,5.7,7,Daniel Hsia
 0,Documentary,en,0,90.0,6.3,16,Brian Herzlinger
